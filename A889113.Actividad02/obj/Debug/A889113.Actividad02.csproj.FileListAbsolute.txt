@@ -1,0 +1,7 @@
+C:\Users\juamp\source\repos\A889113.Actividad02\A889113.Actividad02\obj\Debug\A889113.Actividad02.csprojAssemblyReference.cache
+C:\Users\juamp\source\repos\A889113.Actividad02\A889113.Actividad02\obj\Debug\A889113.Actividad02.csproj.CoreCompileInputs.cache
+C:\Users\juamp\source\repos\A889113.Actividad02\A889113.Actividad02\bin\Debug\A889113.Actividad02.exe.config
+C:\Users\juamp\source\repos\A889113.Actividad02\A889113.Actividad02\bin\Debug\A889113.Actividad02.exe
+C:\Users\juamp\source\repos\A889113.Actividad02\A889113.Actividad02\bin\Debug\A889113.Actividad02.pdb
+C:\Users\juamp\source\repos\A889113.Actividad02\A889113.Actividad02\obj\Debug\A889113.Actividad02.exe
+C:\Users\juamp\source\repos\A889113.Actividad02\A889113.Actividad02\obj\Debug\A889113.Actividad02.pdb
